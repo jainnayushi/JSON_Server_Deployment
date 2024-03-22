@@ -54,13 +54,13 @@
       "id": 4
     },
     {
-      "title": "Adidas Women",
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAPlgSYUUEbKsM4npFBRHqHQORgR-AuC14T3hoHY6sxM2TI4EryiBFNDXcHewXL_ik0862lNpbODJjAZi3nD1F5-woChJdbFZKUGMBrAC0hPCWP3cQbK2Y7A&usqp=CAE",
-      "price": 399,
-      "category": "Sneakers",
+      "title": "HP Laptop",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.nqL1jts25ggLhNzlvnzrUwHaEI?w=320&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": 39999,
+      "category": "Laptop",
       "quantity": 2,
-      "offerPrice": 350,
-      "color": "Blue",
+      "offerPrice": 35000,
+      "color": "Olive",
       "id": 5
     },
     {
