@@ -13,24 +13,24 @@
    ],
   "products": [
     {
-      "title": "Adidas Women Shoes",
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_G21GokEWLhZWJZhFoT8YNqNDZG8c-dgdo14Sh161oIyrzzH_Qsv12DktFrj69OsCux383euaaI66zCAT9jq3dCw8ttFZ2Uj1XgUIp2nyTgkDz8xxAZuwlw&usqp=CAE",
-      "price": 299,
-      "category": "Shoes",
+      "title": "Iphone 20",
+      "image": "https://tv-it.com/storage/products/png7.webp",
+      "price": 50900,
+      "category": "Mobile",
       "quantity": 2,
-      "offerPrice": 250,
+      "offerPrice": 50000,
       "color": "Blue",
       "id": 1
     },
 
     {
-      "title": "Peach Casual-2",
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT6lgHyrqnJCO98Tu6jFglGe94LfDiXIODhwfdeKdBDeSjZz31Yk8iKD0KbSTdxftHf1l0PkLgLYDnLUp2tgg_IIyQPezJILl_qXDmWUty6DW-71kIvFA3DXQ&usqp=CAE",
-      "price": 199,
-      "category": "Shoes",
+      "title": "Peach Casual",
+      "image": "https://m.media-amazon.com/images/I/51lD7V4jQyS.jpg",
+      "price": 599,
+      "category": "Shirt",
       "quantity": 4,
-      "offerPrice": 150,
-      "color": "Black",
+      "offerPrice": 550,
+      "color": "Green",
       "id": 2
     },
     {
@@ -242,6 +242,37 @@
       "category": "earphone",
       "quantity": 10,
       "image": "https://m.media-amazon.com/images/I/61x8gxTCOaL._SY355_.jpg"
-    }
+    },
+       {
+      "title": "Adidas Women Shoes",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_G21GokEWLhZWJZhFoT8YNqNDZG8c-dgdo14Sh161oIyrzzH_Qsv12DktFrj69OsCux383euaaI66zCAT9jq3dCw8ttFZ2Uj1XgUIp2nyTgkDz8xxAZuwlw&usqp=CAE",
+      "price": 299,
+      "category": "Shoes",
+      "quantity": 2,
+      "offerPrice": 250,
+      "color": "Blue",
+      "id": 24
+    },
+
+    {
+      "title": "Peach Casual-2",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT6lgHyrqnJCO98Tu6jFglGe94LfDiXIODhwfdeKdBDeSjZz31Yk8iKD0KbSTdxftHf1l0PkLgLYDnLUp2tgg_IIyQPezJILl_qXDmWUty6DW-71kIvFA3DXQ&usqp=CAE",
+      "price": 199,
+      "category": "Shoes",
+      "quantity": 4,
+      "offerPrice": 150,
+      "color": "Black",
+      "id": 25
+    },
+    {
+      "title": "Flavia Women Running",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSPKt3toOB1FTHhS6p11TL_3Ohjq1uwIx4sIbF8T3xvliGii0hpOCx8Re5nR1xG9EmuJWymUKN9jLHRshdOWXf9rHQVirCnhEW--Ir9yygAuauokle-K0mk5g&usqp=CAE",
+      "price": 399,
+      "category": "Shoes",
+      "quantity": 5,
+      "offerPrice": 379,
+      "color": "Blue",
+      "id": 26
+    },
   ]
 }
