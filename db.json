@@ -1,16 +1,16 @@
 {
-   "users": [
-     {
-       "id":1,
-       "email":"admin@admin.com",
-       "password":"admin"
-     },
-     {
-       "id":2,
-       "email":"user@1.com",
-       "password":"user1"
-     }
-   ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@admin.com",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "email": "user@1.com",
+      "password": "user1"
+    }
+  ],
   "products": [
     {
       "title": "Iphone 20",
@@ -243,7 +243,7 @@
       "quantity": 10,
       "image": "https://m.media-amazon.com/images/I/61x8gxTCOaL._SY355_.jpg"
     },
-       {
+    {
       "title": "Adidas Women Shoes",
       "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_G21GokEWLhZWJZhFoT8YNqNDZG8c-dgdo14Sh161oIyrzzH_Qsv12DktFrj69OsCux383euaaI66zCAT9jq3dCw8ttFZ2Uj1XgUIp2nyTgkDz8xxAZuwlw&usqp=CAE",
       "price": 299,
@@ -273,6 +273,6 @@
       "offerPrice": 379,
       "color": "Blue",
       "id": 26
-    },
+    }
   ]
 }
